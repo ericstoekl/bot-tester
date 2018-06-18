@@ -8,3 +8,5 @@ functions:
     lang: go
     handler: ./gotest
     image: ericstoekl/gotest
+    secrets:
+      - ericstoekl-gotest

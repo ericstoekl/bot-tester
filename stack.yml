@@ -10,3 +10,4 @@ functions:
     image: ericstoekl/gotest
     secrets:
       - ericstoekl-gotest
+
